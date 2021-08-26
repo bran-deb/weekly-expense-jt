@@ -7,4 +7,4 @@
 > - JavaScript
 
 ## 💾 Features
-Expense calculator with the use of objects in javascript
+> Expense calculator with the use of objects in javascript
